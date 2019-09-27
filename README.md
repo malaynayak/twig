@@ -1,1 +1,3 @@
-# twig
+# Twig
+
+Twig templating concepts.
